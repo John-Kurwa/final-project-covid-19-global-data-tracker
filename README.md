@@ -1,5 +1,3 @@
-# final-project-covid-19-global-data-tracker
-
 # COVID-19 Data Analysis & Visualization
 
 This project analyzes global COVID-19 data for selected countries (Kenya, United States, and India) to uncover trends in total cases, deaths, and vaccination progress.
